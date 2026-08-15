@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="ConfluxLab confluence mark, colour variant">
+  <title>ConfluxLab — colour</title>
+  <desc>Two converging streams in teal and amber merging at a dark node — finance and humanitarian currents meeting at the lab.</desc>
+  <g fill="none" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 50 C 62 50, 102 78, 140 100" stroke="#1F7A8C"/>
+    <path d="M30 150 C 62 150, 102 122, 140 100" stroke="#C45A3A"/>
+    <path d="M140 100 L 180 100" stroke="#0E1116"/>
+  </g>
+  <circle cx="140" cy="100" r="10" fill="#0E1116"/>
+</svg>

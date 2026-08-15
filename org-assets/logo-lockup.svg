@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 200" role="img" aria-label="ConfluxLab logo with wordmark">
+  <title>ConfluxLab logo lockup</title>
+  <desc>Confluence mark paired with the ConfluxLab wordmark.</desc>
+  <g fill="none" stroke="#0E1116" stroke-width="12" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M30 50 C 62 50, 102 78, 140 100"/>
+    <path d="M30 150 C 62 150, 102 122, 140 100"/>
+    <path d="M140 100 L 180 100"/>
+  </g>
+  <circle cx="140" cy="100" r="10" fill="#0E1116"/>
+  <text x="220" y="118" font-family="'IBM Plex Sans', 'Inter', system-ui, sans-serif" font-size="56" font-weight="500" fill="#0E1116" letter-spacing="-0.5">ConfluxLab</text>
+</svg>
