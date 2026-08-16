@@ -16,7 +16,7 @@ Organisation-level configuration and public presentation for [Conflux-Laboratory
 ├── org-assets/
 │   ├── avatar-1024.png        # organisation avatar — upload manually, see below
 │   ├── logo-color.svg         # two-colour confluence mark
-│   └── logo-lockup.svg        # mark + ConfluxLab wordmark
+│   └── logo-lockup.svg        # mark + ConfluxLab wordmark (short form)
 └── README.md                  # this file
 ```
 
@@ -41,7 +41,7 @@ The description and website URL *are* set via the API and are already configured
 
 The canonical source for identity, voice, colour, and typography is the private `brand` repository. Rules that apply to anything published here:
 
-- The wordmark is one token: **ConfluxLab**. Never "Conflux Lab" or "CONFLUX LAB". The legal name "Conflux Laboratory" is used where a legal name is called for.
+- Write the name in full: **Conflux Laboratory** — this is also the legal name. The one-token **ConfluxLab** is the short form, kept for the domain, handles, and the existing logo lockups. Never "Conflux Lab" or "CONFLUX LAB".
 - British English (programme, analyse, behaviour).
 - No marketing superlatives — *cutting-edge, innovative, world-class, revolutionary* — and no vague abstractions such as *unlock value* or *leverage*.
 - Pair the wordmark with a qualifier on first mention, and keep the disambiguation note: the term "Conflux" is used by unrelated projects.

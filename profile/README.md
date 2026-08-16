@@ -1,10 +1,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Conflux-Laboratory/.github/main/profile/assets/banner-dark.png">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Conflux-Laboratory/.github/main/profile/assets/banner-light.png">
-  <img alt="ConfluxLab — applied intelligence at the confluence of finance and humanitarian practice" src="https://raw.githubusercontent.com/Conflux-Laboratory/.github/main/profile/assets/banner-light.png">
+  <img alt="Conflux Laboratory — applied intelligence at the confluence of finance and humanitarian practice" src="https://raw.githubusercontent.com/Conflux-Laboratory/.github/main/profile/assets/banner-light.png">
 </picture>
 
-**ConfluxLab** is an independent applied-research laboratory working at the confluence of computer science, quantitative economics, and humanitarian practice. We build, evaluate, and openly critique the computational methods used to allocate capital, measure risk, and deliver aid — and we study the consequences of those methods for the institutions and the people who bear them.
+**Conflux Laboratory** is an independent applied-research laboratory working at the confluence of computer science, quantitative economics, and humanitarian practice. We build, evaluate, and openly critique the computational methods used to allocate capital, measure risk, and deliver aid — and we study the consequences of those methods for the institutions and the people who bear them.
 
 The name is the argument. *Conflux*, from the Latin *confluentia*, is the point where two rivers merge into a single stream. Three confluences define the work: **disciplinary** — computer science, quantitative economics, and humanitarian studies; **evidential** — market data, operational records from aid organisations, public statistics, and qualitative field evidence; and **sectoral** — capital markets and humanitarian response, two domains almost never studied side by side. We treat them as two expressions of the same methodological problem: making high-stakes decisions under uncertainty, at scale, on incomplete data.
 
@@ -47,4 +47,4 @@ We do not build or license systems that compute a "minimum necessary" level of s
 
 Enquiries — general, research collaboration, partnerships, and media — are on the [contact section](https://confluxlab.org/#contact) of the website.
 
-<sub><b>Disambiguation.</b> ConfluxLab (legal name: Conflux Laboratory) is a research laboratory. It is not affiliated with, and should not be confused with, Conflux Network (a public blockchain, ticker CFX) or Atlassian Confluence (collaboration software).</sub>
+<sub><b>Disambiguation.</b> Conflux Laboratory (legal name: Conflux Laboratory) is a research laboratory. It is not affiliated with, and should not be confused with, Conflux Network (a public blockchain, ticker CFX) or Atlassian Confluence (collaboration software).</sub>
